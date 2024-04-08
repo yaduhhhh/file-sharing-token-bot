@@ -11,27 +11,27 @@
   "env": {
     "ultroidxTeam_bot_token": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "6056596046:AAF6HQZMwXlmLcnj0Hsfdr9WkLcDy1i588E"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1896730469"
     },
     "ultroidxTeam_api_id":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "16419062"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://meetyadu666:ttt111ttt222@kidungamani0.cuqw1xv.mongodb.net/"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "kidungamani0"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "874263f2a92fbc7c67b1864b0e79cc2c"
     },
     "ultroidxTeam_logChannel_id":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001802204511"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
