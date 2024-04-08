@@ -5,27 +5,27 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-ultroidxTeam_bot_token = os.environ.get("ultroidxTeam_bot_token", "6976814117:AAEFE6XS95sfM085--KzXrFZ420Ee_VTLNA")
+ultroidxTeam_bot_token = os.environ.get("ultroidxTeam_bot_token", "7160552555:AAH11JugSfbssjRibmckSnS_1zaPiZJ7lag")
 
-#Your API ID from my.telegram.org [https://youtu.be/gZQJ-yTMkEo?si=H4NlUUgjsIc5btzH]
-ultroidxTeam_api_id = int(os.environ.get("ultroidxTeam_api_id", "22505271"))
+#Your API ID from my.telegram.org [t.me/johny_sin]
+ultroidxTeam_api_id = int(os.environ.get("ultroidxTeam_api_id", "16419062"))
 
 #Your API Hash from my.telegram.org [https://youtu.be/gZQJ-yTMkEo?si=H4NlUUgjsIc5btzH]
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "874263f2a92fbc7c67b1864b0e79cc2c")
 
 #Your db channel Id 
-ultroidxTeam_logChannel_id = int(os.environ.get("ultroidxTeam_logChannel_id", "-1002075726565"))
+ultroidxTeam_logChannel_id = int(os.environ.get("ultroidxTeam_logChannel_id", "-1002070507861"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1896730469"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
 
-#Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
+#Database [https://t.me/johny_sin]
 
-ultroidxTeam_DB_URI = "mongodb+srv://Cluster0:Cluster0@cluster0.c07xkuf.mongodb.net/?retryWrites=true&w=majority"
-ultroidxTeam_DB_name = os.environ.get("DATABASE_NAME", "ultroidxTeam")
+ultroidxTeam_DB_URI = "mongodb+srv://meetyadu666:ttt111ttt222@kidungamani0.cuqw1xv.mongodb.net/"
+ultroidxTeam_DB_name = os.environ.get("DATABASE_NAME", "kidungamani000")
 
 #Shortner (token system) 
 # check my discription to help by using my refer link of shareus.io
@@ -39,7 +39,7 @@ ultroidxTeam_tutorial = os.environ.get("ultroidxTeam_tutorial","gojfsi/2")
 
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001982072622"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001802204511"))
 
 # no need to chnage 
 ultroidxTeam_botWorkers = int(os.environ.get("ultroidxTeam_botWorkers", "4"))
@@ -69,7 +69,7 @@ ultroidxTeam_botSTATS = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
 
 ultroidxTeam_ADMINS.append(OWNER_ID)
-ultroidxTeam_ADMINS.append(6852649461)
+ultroidxTeam_ADMINS.append(1896730469)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
